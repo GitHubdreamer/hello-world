@@ -1,6 +1,10 @@
 # hello-world
-Just another repository
 
-Hi Humans!
+# GitHubdreamer here,I like java.
+# The following is a hello-world program.
 
-GitHubdreamer here,I like java.
+public class HelloWorld{
+    public static void main(String[] args){
+        System.out.println("hello world!");
+        }
+}
